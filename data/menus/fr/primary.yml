@@ -1,6 +1,24 @@
 ---
 title: Menu principal
 items:
+- title: Personnes
+  slug: personnes
+  target: "/personnes/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/persons"
+  file: content/fr/persons/_index.html
+- title: Écoles
+  slug: ecoles
+  target: "/ecoles/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/schools"
+  file: content/fr/schools/_index.html
 - title: Formations
   slug: formations
   target: "/formations/"
@@ -28,22 +46,4 @@ items:
   descendants_targets: []
   path: "/locations"
   file: content/fr/locations/_index.html
-- title: Personnes
-  slug: personnes
-  target: "/personnes/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
-- title: Écoles
-  slug: ecoles
-  target: "/ecoles/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/schools"
-  file: content/fr/schools/_index.html
 
