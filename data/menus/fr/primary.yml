@@ -28,15 +28,6 @@ items:
   descendants_targets: []
   path: "/programs"
   file: content/fr/programs/_index.html
-- title: Campus
-  slug: campus
-  target: "/campus/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/locations"
-  file: content/fr/locations/_index.html
 - title: Organisations
   slug: organisations
   target: "/organisations/"
@@ -46,4 +37,13 @@ items:
   descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: Campus
+  slug: campus
+  target: "/campus/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/locations"
+  file: content/fr/locations/_index.html
 
