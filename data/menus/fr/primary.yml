@@ -1,15 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Organisations
-  slug: organisations
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
 - title: Écoles
   slug: ecoles
   target: "/ecoles/"
@@ -28,6 +19,15 @@ items:
   descendants_targets: []
   path: "/programs"
   file: content/fr/programs/_index.html
+- title: Organisations
+  slug: organisations
+  target: "/organisations/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/organizations"
+  file: content/fr/organizations/_index.html
 - title: Campus
   slug: campus
   target: "/campus/"
